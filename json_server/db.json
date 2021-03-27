@@ -1,0 +1,29 @@
+{
+  "books": [
+    {
+      "title": "The Grandfather",
+      "rating": "3",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "The Grandmother",
+      "rating": 4.5
+    },
+    {
+      "id": "3",
+      "title": "The Grandmother",
+      "rating": 4.5
+    },
+    {
+      "id": 4,
+      "title": "Book1",
+      "rating": 9
+    },
+    {
+      "title": "newbook",
+      "rating": "9",
+      "id": 5
+    }
+  ]
+}
